@@ -1,0 +1,36 @@
+{
+    "requests": [{
+            "id":1,
+            "date": "20/09/2021",
+            "number": "0001258",
+            "quantity": "7",
+            "amount": "10.900.000",
+            "progress":"2",
+            "percent":"20",
+            "status": "checking",
+            "description": "Estamos verificando los emisores de las facturas."
+        },
+        {
+            "id":2,
+            "date": "18/09/2021",
+            "number": "0001248",
+            "quantity": "3",
+            "amount": "990.000",
+            "progress":"5",
+            "percent":"100",
+            "status": "approved",
+            "description": "El total del anticipo fue depositado en la cuenta bancaria."
+        },
+        {
+            "id":3,
+            "date": "15/09/2021",
+            "number": "0001126",
+            "quantity": "2",
+            "amount": "2.700.000",
+            "progress":"5",
+            "percent":"100",
+            "status": "rejected",
+            "description": "Una de las facturas no es apta para recibir anticipo."
+        }
+    ]
+}

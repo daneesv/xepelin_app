@@ -1,0 +1,60 @@
+{
+    "notifications":[
+        {
+            "id":1,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"En este momento",
+            "new":1,
+            "icon":0
+        },
+        {
+            "id":2,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 5 minutos",
+            "new":1,
+            "icon":1
+        },
+        {
+            "id":3,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 1 hora",
+            "new":1,
+            "icon":1
+        },
+        {
+            "id":4,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 5 días",
+            "new":0,
+            "icon":0
+        },
+        {
+            "id":5,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 2 semanas",
+            "new":0,
+            "icon":1
+        },
+        {
+            "id":6,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 3 semanas",
+            "new":0,
+            "icon":1
+        },
+        {
+            "id":7,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 1 mes",
+            "new":0,
+            "icon":0
+        },
+        {
+            "id":8,
+            "content":"Las <strong>Solicitud #0158</strong> finalizó el proceso de <strong>revisión</strong> para financiamiento directo.",
+            "date":"Hace 2 meses",
+            "new":0,
+            "icon":0
+        }
+    ]
+}

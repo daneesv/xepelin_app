@@ -1,0 +1,129 @@
+{
+    "invoices": [{
+            "id":1,
+            "date": "20/09/2021",
+            "number": "0154786",
+            "issuer": "Geodis Wilson Chile Ltda.",
+            "rut": "79699520-3",
+            "amount": "3.700.000",
+            "status": "issued"
+        },
+        {
+            "id":2,
+            "date": "18/09/2021",
+            "number": "0002563",
+            "issuer": "Koehn y Yavar Ltda.",
+            "rut": "85651300-9",
+            "amount": "4.900.000",
+            "status": "issued"
+        },
+        {
+            "id":3,
+            "date": "15/09/2021",
+            "number": "0658923",
+            "issuer": "Todo Arauco S.A.",
+            "rut": "96671020-9",
+            "amount": "880.000",
+            "status": "issued"
+        },
+        {
+            "id":4,
+            "date": "14/09/2021",
+            "number": "0145236",
+            "issuer": "Champiñones Abrantes S.A.",
+            "rut": "76102111-7",
+            "amount": "999.000",
+            "status": "issued"
+        },
+        {
+            "id":5,
+            "date": "30/08/2021",
+            "number": "0547854",
+            "issuer": "Insesa Ingeniería y Servicios S.A.",
+            "rut": "96534100-5",
+            "amount": "6.580.000",
+            "status": "issued"
+        },
+        {
+            "id":6,
+            "date": "25/08/2021",
+            "number": "0025641",
+            "issuer": "Revestimientos Rubberliner Ltda.",
+            "rut": "76088128-7",
+            "amount": "1.110.000",
+            "status": "issued"
+        },
+        {
+            "id":7,
+            "date": "23/08/2021",
+            "number": "0021457",
+            "issuer": "Viveros Copequén Ltda.",
+            "rut": "77372330-3",
+            "amount": "950.900",
+            "status": "issued"
+        },
+        {
+            "id":8,
+            "date": "22/08/2021",
+            "number": "0001247",
+            "issuer": "Comercial e Industrial Silfa S.A.",
+            "rut": "76171658-1",
+            "amount": "2.500.000",
+            "status": "issued"
+        },
+        {
+            "id":9,
+            "date": "21/08/2021",
+            "number": "0028659",
+            "issuer": "Empresa Eléctrica Guacolda S.A.",
+            "rut": "96635700-2",
+            "amount": "99.000",
+            "status": "issued"
+        },
+        {
+            "id":10,
+            "date": "28/07/2021",
+            "number": "0365987",
+            "issuer": "Exportadora Norfrut Chile Ltda.",
+            "rut": "76056132-0",
+            "amount": "120.000",
+            "status": "issued"
+        },
+        {
+            "id":11,
+            "date": "25/07/2021",
+            "number": "0698564",
+            "issuer": "Proactiva Servicios Urbanos S.A.",
+            "rut": "87803800-2",
+            "amount": "2.150.000",
+            "status": "issued"
+        },
+        {
+            "id":12,
+            "date": "24/07/2021",
+            "number": "0078965",
+            "issuer": "Torre Inmobiliaria S.A.",
+            "rut": "96553360-5",
+            "amount": "10.800.000",
+            "status": "issued"
+        },
+        {
+            "id":13,
+            "date": "23/07/2021",
+            "number": "0002547",
+            "issuer": "Agfa Gevaert Ltda.",
+            "rut": "81163200-7",
+            "amount": "980.000",
+            "status": "issued"
+        },
+        {
+            "id":14,
+            "date": "17/07/2021",
+            "number": "0004785",
+            "issuer": "Alimex S.A.",
+            "rut": "96938200-8",
+            "amount": "5.600.000",
+            "status": "issued"
+        }
+    ]
+}

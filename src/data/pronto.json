@@ -1,0 +1,43 @@
+{
+    "invoices": [{
+            "id":1,
+            "date": "18/09/2021",
+            "number": "0047855",
+            "issuer": "Kentucky Foods Chile S.A.",
+            "rut": "79682100-0",
+            "amount": "5.900.000",
+            "percent": "100",
+            "status": "issued"
+        },
+        {
+            "id":2,
+            "date": "16/09/2021",
+            "number": "0045784",
+            "issuer": "Leasing Fitrans Ltda.",
+            "rut": "78089540-3",
+            "amount": "700.000",
+            "percent": "50",
+            "status": "issued"
+        },
+        {
+            "id":3,
+            "date": "15/08/2021",
+            "number": "0365895",
+            "issuer": "Comercial Trex Service Ltda.",
+            "rut": "77545090-8",
+            "amount": "9.500.000",
+            "percent": "75",
+            "status": "issued"
+        },
+        {
+            "id":4,
+            "date": "14/08/2021",
+            "number": "5896589",
+            "issuer": "Transportes Hoevel Ltda.",
+            "rut": "79919580-1",
+            "amount": "990.000",
+            "percent": "100",
+            "status": "issued"
+        }
+    ]
+}

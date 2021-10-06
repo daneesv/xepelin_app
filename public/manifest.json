@@ -1,0 +1,24 @@
+{
+  "short_name": "Xepelin",
+  "name": "Xepelin",
+  "description": "Somos la Empresa de Factoring y Financiamiento más segura en Chile. Solicita tu Crédito en línea, Recibe una Tasa de Interés personalizada y respuesta en minutos.",
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#5100B3",
+  "dir": "ltr",
+  "lang": "es",
+  "orientation": "any",
+  "icons": [{
+      "src": "appicons/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "appicons/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
